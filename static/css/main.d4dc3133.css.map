@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.d4dc3133.css","mappings":"AAAA,EAGE,qBAAsB,CAGtB,aAAc,CAFd,kBAAqB,CAFrB,QAAS,CADT,SAAU,CAIV,oBAEF","sources":["index.css"],"sourcesContent":["* {\n  padding: 0;\n  margin: 0;\n  box-sizing: border-box;\n  font-family: 'Roboto';\n  text-decoration: none;\n  color: inherit;\n}\n"],"names":[],"sourceRoot":""}
